@@ -22,12 +22,5 @@ The project employs a range of anomaly detection techniques, including but not l
 ## Data Sources
 The dataset consists of 10 years of daily stock return data from the Russell 2000 index, including external factors such as VIX (volatility index) and news sentiment analysis.
 
-## Setup and Usage
-To run the project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/anomaly-detection.git
-   cd anomaly-detection
 
 
